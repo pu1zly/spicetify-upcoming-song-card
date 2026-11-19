@@ -1,5 +1,9 @@
 # Spicetify Upcoming Song (Card Variant)
 
+<p align="center">
+  <img src="preview.png" alt="Upcoming Song Preview" />
+</p>
+
 A modification of the Spicetify `upcomingSong` extension that displays the next track in the queue beside the currently playing track.
 
 ## Differences from the Original
