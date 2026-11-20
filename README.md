@@ -28,6 +28,15 @@ The original extension presents the upcoming track using Spotify's standard now-
    spicetify apply
    ```
 
+## Uninstallation
+
+To disable and remove the extension:
+
+```bash
+spicetify config extensions upcomingSong.js-
+spicetify apply
+```
+
 ## License and Attribution
 
 - Original extension created by [Fl3xm3ist3r](https://github.com/fl3xm3ist3r).
